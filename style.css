@@ -1,27 +1,10 @@
-.green {
-    color: green;
+#elem1{
+   color: red;
+}
+#elem2{
+   color: green;
 }
 
-.red {
-    color: red;
-}
-
-.big {
-    font-size: 30px;
-}
-
-.small {
-    font-size: 20px;
-}
-
-.a{
-   border: 2px solid black;
-}
-
-.b{
-   text-align: center;
-}
-
-.c{
-   text-transform: uppercase;
+#elem3{
+    color: rgb(29, 125, 204);
 }
