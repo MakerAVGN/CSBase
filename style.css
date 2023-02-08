@@ -1,14 +1,42 @@
-main > title {
+ /* a:link {
+    color: blue; /* не посетил ссылку */
+
+
+/* a:visited {
+    color: green; /* посетил ссылку */
+
+
+/* a:hover {
+    text-decoration: none; 
+    color: red;   /* навел мышь */
+
+
+/* a:active {
+    color: black; /* нажал мышкой но не отпустил */
+/* }          */ 
+
+
+
+a:link  {
+    color: blue;
+    text-decoration: none;
+    /* не посетил ссылку */
+}
+
+a:visited {
+    color: blue;
+    text-decoration: none;
+    /* посетил ссылку */
+}
+
+a:hover {
     color: red;
+    text-decoration: underline;
+    /* навел мышь */
 }
 
-
-main * .link{
-    color: green;
+a:active {
+    color: blue;
+    text-decoration: none;
+    /* нажал мышкой но не отпустил */
 }
-
-main * .top {
-    color: red;
-}
-
-
