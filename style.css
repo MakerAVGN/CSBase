@@ -1,24 +1,19 @@
-#elem h2{
+.bbb.zzz {
     color: red;
 }
 
+h2.bbb.zzz {
+    color: rgb(180, 0, 0);
+}
 
+#elem.bbb {
+    color: blue;
+}
 
-#elem1 p.text{
+#elem0.bbb.zzz {
+    color: red;
+}
+
+h2#elem1.bbb {
     color: orange;
-}
-
-
-#elem2 p.text1{
-    text-transform: uppercase;
-}
-
-#elem3 p.text2 {
-    text-align: center;
-    border: 3px solid green;
-    min-width: 80px;
-    margin-left: 20px;
-}
-#elem3{
-display: flex;
 }
