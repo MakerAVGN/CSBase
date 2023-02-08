@@ -1,0 +1,27 @@
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.big {
+    font-size: 30px;
+}
+
+.small {
+    font-size: 20px;
+}
+
+.a{
+   border: 2px solid black;
+}
+
+.b{
+   text-align: center;
+}
+
+.c{
+   text-transform: uppercase;
+}
