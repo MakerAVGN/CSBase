@@ -1,3 +1,20 @@
-.eee.zzz.ccc{
+h2 {
+    font-size: 20px;
+}
+   /* font-size:30px; потому что CSS читается сверху вниз */
+h2 {
+    font-size: 30px;
+}
+
+
+
+
+h2 {
+    font-size: 20px;
+    color: blue;
+}
+/* Будут активны стили: font-size: 20px;  font-style: italic;  color: red;*/
+h2 {
+    font-style: italic;
     color: red;
 }
