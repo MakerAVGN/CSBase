@@ -1,10 +1,24 @@
-#elem1{
-   color: red;
-}
-#elem2{
-   color: green;
+#elem h2{
+    color: red;
 }
 
+
+
+#elem1 p.text{
+    color: orange;
+}
+
+
+#elem2 p.text1{
+    text-transform: uppercase;
+}
+
+#elem3 p.text2 {
+    text-align: center;
+    border: 3px solid green;
+    min-width: 80px;
+    margin-left: 20px;
+}
 #elem3{
-    color: rgb(29, 125, 204);
+display: flex;
 }
