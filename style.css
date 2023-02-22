@@ -1,20 +1,32 @@
 #elem{
-    width: 250px;
+    width: 150px;
     height: 150px;
-    border-top: solid 3px blue;
-    border-right: solid 3px green;
-    border-bottom: solid 3px red;
-    border-left: solid 3px orange;
-    margin-bottom: 30px;
+    border: 3px solid green;
+    border-radius: 20px;
+    margin-bottom: 20px;
 }
 
 .one {
     width: 250px;
     height: 150px;
-    border-top: solid 1px blue;
-    border-right: dotted 3px green;
-    border-bottom: solid 1px blue;
-    border-left: solid 3px red;
+    border-radius: 20px;
+    background-color: aqua;
+    margin-bottom: 20px;
+}
+
+.two{
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.three{
+    width: 200px;
+    height: 200px;
+    border-radius:100px ;
+    border: 1px solid green;
 }
 
 
