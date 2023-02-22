@@ -1,25 +1,15 @@
-/* p:first-of-type {
+/* li:not(.elem) {
 	color: red;
-}
-
-
-p:last-of-type{
-    color: green;
 } */
 
-
-/* h2:nth-of-type(2) {
+li:not(:first-child) {
 	color: red;
 }
 
-p:nth-last-of-type(odd) {
-	color: green;
+
+/* li:not(:first-child,:last-child) {
+	color: red;
 } */
-
-
-h2:only-of-type {
-	color: red;
-}
 
 
 
