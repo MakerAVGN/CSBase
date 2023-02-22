@@ -1,0 +1,28 @@
+
+a.a1 {
+	color: red;
+}
+a:hover {
+	text-decoration: none;
+}
+
+a.a2 {
+	color: green;
+}
+a.a2:hover {
+	text-decoration: none;
+}
+
+#block, a.a3{
+    color: yellow;
+}
+#block, a.a3:hover {
+	text-decoration: none;
+}
+
+.block a.zzz {
+	color: blue;
+}
+.block a.zzz:hover {
+	text-decoration: none;
+}
