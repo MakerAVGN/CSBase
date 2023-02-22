@@ -1,30 +1,22 @@
 #elem{
     width: 250px;
     height: 150px;
-    border: 5px solid blue;
+    border-top: solid 3px blue;
+    border-right: solid 3px green;
+    border-bottom: solid 3px red;
+    border-left: solid 3px orange;
     margin-bottom: 30px;
 }
 
 .one {
     width: 250px;
     height: 150px;
-    border: 5px dotted red;
-    margin-bottom: 30px;
+    border-top: solid 1px blue;
+    border-right: dotted 3px green;
+    border-bottom: solid 1px blue;
+    border-left: solid 3px red;
 }
 
-.two{
-    width: 250px;
-    height: 150px;
-    border: 5px dashed red;    //*я делал так же *//
-    margin-bottom: 30px;
-}
-
-.three{
-    width: 250px;
-    height: 150px;
-    border: 5px double red;
-    margin-bottom: 30px;
-}
 
 
 
