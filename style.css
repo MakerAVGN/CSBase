@@ -1,15 +1,18 @@
 #parent {
-    width:800px;
+    width: 300px;
     border: 1px solid red;
 }
 
 #child {
-    height:400px;
-    border: 1px solid green;
-    margin: 50px;
-}
-#child1{
+    margin-top: 40px;
+  
+    margin-right: 100px;
+  
+    margin-bottom: 40px;
+
+    margin-left: 100px;
+  
+
     height: 300px;
     border: 1px solid green;
-    margin: 50px;
 }
