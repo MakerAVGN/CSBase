@@ -1,12 +1,13 @@
-#parent {
+.elem{
     width: 300px;
     border: 1px solid red;
+    padding: 10px;
 }
 
-#child {
-    margin: 20px 60px 40px 60px;
-  
-
-    height: 50px;
-    border: 1px solid green;
+.elem1{
+    width: 500px;
+        border: 1px solid green;
+        text-align: justify;
+        padding: 30px;
+        margin-bottom: 20px;
 }
