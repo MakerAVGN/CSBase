@@ -1,42 +1,6 @@
- /* a:link {
-    color: blue; /* не посетил ссылку */
-
-
-/* a:visited {
-    color: green; /* посетил ссылку */
-
-
-/* a:hover {
-    text-decoration: none; 
-    color: red;   /* навел мышь */
-
-
-/* a:active {
-    color: black; /* нажал мышкой но не отпустил */
-/* }          */ 
-
-
-
-a:link  {
-    color: blue;
-    text-decoration: none;
-    /* не посетил ссылку */
-}
-
-a:visited {
-    color: blue;
-    text-decoration: none;
-    /* посетил ссылку */
-}
-
-a:hover {
-    color: red;
-    text-decoration: underline;
-    /* навел мышь */
-}
-
-a:active {
-    color: blue;
-    text-decoration: none;
-    /* нажал мышкой но не отпустил */
+#elem {
+    width: 100px;
+    height: 100px;
+    border: 1px solid green;
+    border-radius: 50%;
 }
