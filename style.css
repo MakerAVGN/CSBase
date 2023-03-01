@@ -1,12 +1,11 @@
-/* body{
-    background: url(images/bg.png);
-} */
-/* body{
-    background: url(images/bg.png);
-    background-repeat: repeat-y;
+/* ul {
+    list-style-type: square;
 } */
 
-body {
-    background: url(images/bg.png);
-    background-repeat: repeat-x;
-}
+/* ul {
+    list-style-type: circle;
+} */
+
+/* ul {
+    list-style-type: none;
+} */
