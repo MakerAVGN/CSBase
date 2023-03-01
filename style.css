@@ -1,11 +1,15 @@
-/* ol {
-    list-style-type: lower-alpha;
+#parent {
+    width:800px;
+    border: 1px solid red;
 }
 
-ol {
-    list-style-type: lower-greek;
-} */
-
-ol {
-    list-style-type: upper-alpha;
+#child {
+    height:400px;
+    border: 1px solid green;
+    margin: 50px;
+}
+#child1{
+    height: 300px;
+    border: 1px solid green;
+    margin: 50px;
 }
